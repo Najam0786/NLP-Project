@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Trustpilot Review Analysis: Lakeland
 
 ## NLP-Based Sentiment & Topic Modeling | Home & Garden Sector
@@ -284,7 +283,3 @@ June 2026
 ## License
 
 This project is for educational and analytical purposes. Dataset usage subject to Trustpilot terms of service.
-=======
-# NLP-Project
-NLP Project
->>>>>>> 247fa586d420f806c75cf381369d95dcf23d4e57
