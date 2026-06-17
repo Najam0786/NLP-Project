@@ -1,0 +1,38 @@
+# Data files (too large for GitHub)
+trustpilot-reviews-123k.csv
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE folders
+.snapshots/
+.claude/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Private / Not for submission
+LOOM_PRESENTATION_SCRIPT.md
+Analisis de resenas (plantilla).pptx
+Caso Práctico DL.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*.log
